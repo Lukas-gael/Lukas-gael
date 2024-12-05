@@ -88,4 +88,4 @@
 ###
 
 <a href="https://github.com/Lukas-gael/curso-ADS-Uninter" target="_blank">GitHub repository for my Uninter ADS course studies   |</a><a href="https://lukas-gael.github.io/curso-ADS-Uninter/" target="_blank">   Live study dashboard</a><br>
-<a href="https://github.com/Lukas-gael/curso-desenvolver-web-completo" target="_blank">GitHub repository for my Udemy courses studies   |</a><a href="https://lukas-gael.github.io/curso-desenvolver-web-completo/" target="_blank">   Live study dashboard</a>
+<a href="https://github.com/Lukas-gael/curso-desenvolver-web-completo" target="_blank">GitHub repository for my Udemy courses studies   |</a><a href="https://lukas-gael.github.io/course-web-developer/" target="_blank">   Live study dashboard</a>
