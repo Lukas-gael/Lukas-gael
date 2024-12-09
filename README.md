@@ -70,8 +70,8 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/lukasgael/" target="_blank">
+<div align="left" >
+  <a  href="https://www.instagram.com/lukasgael/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/lukasgael" target="_blank">
@@ -87,5 +87,5 @@
 
 ###
 
-<a href="https://github.com/Lukas-gael/curso-ADS-Uninter" target="_blank">GitHub repository for my Uninter ADS course studies   |</a><a href="https://lukas-gael.github.io/curso-ADS-Uninter/" target="_blank">   Live study dashboard</a><br>
-<a href="https://github.com/Lukas-gael/curso-desenvolver-web-completo" target="_blank">GitHub repository for my Udemy courses studies   |</a><a href="https://lukas-gael.github.io/course-web-developer/" target="_blank">   Live study dashboard</a>
+<a href="https://github.com/Lukas-gael/curso-ADS-Uninter" target="_blank">GitHub repository for my Uninter ADS course studies   </a>|<a href="https://lukas-gael.github.io/curso-ADS-Uninter/" target="_blank">   Live study dashboard</a><br>
+<a href="https://github.com/Lukas-gael/curso-desenvolver-web-completo" target="_blank">GitHub repository for my Udemy courses studies   </a>|<a href="https://lukas-gael.github.io/course-web-developer/" target="_blank">   Live study dashboard</a>
